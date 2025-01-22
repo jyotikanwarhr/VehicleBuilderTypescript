@@ -332,6 +332,8 @@ class Cli {
             'Reverse',
             'Select or create another vehicle',
             'Exit',
+            'Tow',
+            'Wheelie',
           ],
         },
       ])
