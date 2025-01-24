@@ -15,15 +15,15 @@ class Car extends Vehicle {
   wheels: Wheel[];
 
   // Constructor for the Car class
-  // constructor(
-  //   vin: string,
-  //   color: string,
-  //   make: string,
-  //   model: string,
-  //   year: number,
-  //   weight: number,
-  //   topSpeed: number,
-  //   wheels: Wheel[]
+  constructor(
+    vin: string,
+    color: string,
+    make: string,
+    model: string,
+    year: number,
+    weight: number,
+    topSpeed: number,
+    wheels: Wheel[]
   ) {
     // Call the constructor of the parent class, Vehicle
     super();
