@@ -2,12 +2,13 @@
 
 ## Description
 
-This project is to demonstrate Vehicle Builder through Tyepscript.
+The Vehicle Management Command-Line Interface (CLI) application allows users to create, manage, and perform actions with vehicles. Users can choose between creating new vehicles or selecting existing ones. The application supports cars, trucks, and motorbikes, enabling users to input details and interact with vehicles through various actions.
 
 ## Table of Contents 
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Technologies Used](#Technologies)
 - [License](#license)
 - [Video](#Video)
 
@@ -16,12 +17,19 @@ This project is to demonstrate Vehicle Builder through Tyepscript.
 Following will be required in this project:
 
 - Cloning of repository
-- Navigating to the provided folder
-- Installing inquirer  and typescript with 'npm i inquirer' in Terminal
+- Navigating to the project directory
+- Install dependencies, Installing inquirer and typescript with 'npm i inquirer' in Terminal
+- Run the application: npm start
 
 ## Usage
 
 'npm run start' can be used to run 'index.ts'
+
+## Technologies Used
+
+Node.js
+
+Inquirer.js (for CLI prompts)
 
 ## License
 
