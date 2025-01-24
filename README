@@ -23,7 +23,14 @@ Following will be required in this project:
 
 ## Usage
 
-'npm run start' can be used to run 'index.ts'
+- 'npm start' can be used to run 'index.ts'
+- Choose to create a new vehicle or select an existing one from a list.
+- If creating a new vehicle, select the type of vehicle (car, truck, motorbike).
+- Enter the required details (e.g., make, model, additional attributes).
+- Choose an action to perform with the vehicle (e.g., tow, drive, park).
+- View the results in the CLI.
+- After completing an action, choose to perform additional actions or exit.
+
 
 ## Technologies Used
 
