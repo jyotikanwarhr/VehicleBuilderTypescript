@@ -1,0 +1,31 @@
+# Develop-TypeScript
+
+## Description
+
+This project is to demonstrate Vehicle Builder through Tyepscript.
+
+## Table of Contents 
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Video](#Video)
+
+## Installation
+
+Following will be required in this project:
+
+- Cloning of repository
+- Navigating to the provided folder
+- Installing inquirer  and typescript with 'npm i inquirer' in Terminal
+
+## Usage
+
+'npm run start' can be used to run 'index.ts'
+
+## License
+
+This project is licensed under Unlicensed.
+---
+
+## Video
